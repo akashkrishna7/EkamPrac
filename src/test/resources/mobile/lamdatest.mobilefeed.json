@@ -1,0 +1,9 @@
+{
+  "desiredCapabilities": [
+    {
+      "app": "sample_app.apk",
+      "platformName": "android",
+      "automationName": "UiAutomator2"
+    }
+  ]
+}

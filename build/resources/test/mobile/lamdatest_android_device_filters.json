@@ -1,0 +1,17 @@
+{
+  "platformVersion": {
+    "include": [],
+    "operator": "",
+    "exclude": []
+  },
+  "model": {
+    "include": [
+      "Oppo K10"
+    ],
+    "exclude": []
+  },
+  "udid": {
+    "include": [],
+    "exclude": []
+  }
+}
